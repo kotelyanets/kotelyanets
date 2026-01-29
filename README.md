@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Andre Kotelyanets 🇵🇹🇺🇦
 
-<!--
-**kotelyanets/kotelyanets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Engineer | Associate Degree in CS (Exp. 2026)
+Specializing in building scalable Web Applications and AI-driven solutions. Based in Portugal, aiming for the global stage.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Languages: TypeScript, JavaScript, Go, Python
+- Frontend: Next.js (App Router), React, Tailwind CSS, Framer Motion
+- Backend: Node.js, NestJS, PostgreSQL, Prisma, Redis
+- Cloud & DevOps: AWS, Docker, Vercel, GitHub Actions
+
+### 🚀 Key Projects
+- AI Content SaaS Platform - Full-stack AI SaaS platform with Stripe integration.
+- Real-Time Analytics Dashboard - Real-time crypto dashboard with 100/100 Lighthouse performance.
+
+### 📊 My Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=transparent)
+
+---
+[LinkedIn](https://linkedin.com/in/andre-kotelyanets) | [Email Me](mailto:andrekotelyanets@proton.me)
