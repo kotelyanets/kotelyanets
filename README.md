@@ -24,8 +24,8 @@ Building scalable web applications, AI-driven SaaS products, and next-generation
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### AI / Web3
-![AI Engineering](https://img.shields.io/badge/AI-Engineering-7B61FF?style=flat-square)
-![Web3](https://img.shields.io/badge/Web3-Building-121D33?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
 ### Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -40,9 +40,9 @@ Building scalable web applications, AI-driven SaaS products, and next-generation
 
 | Project | Description | Main Tech Stack |
 |---|---|---|
-| [**Zenith IoT — Real-Time Monitoring Dashboard**](https://github.com/kotelyanets/zenith-iot) | Real-time IoT monitoring dashboard delivering AI-powered operational insights through a modern Bento Grid interface. Built for fast situational awareness and actionable analytics. | `Next.js` · `React` · `TypeScript` · `Tailwind` |
-| [**Dynasty — Full-Stack Music Streaming PWA**](https://github.com/kotelyanets/Dynasty) | Self-hosted music streaming platform with byte-range audio delivery and a fully responsive player experience. Designed as a production-grade PWA for smooth playback across devices. | `React 19` · `Vite` · `Node.js` · `Fastify` · `Prisma` |
-| [**GrokSniper AI — Autonomous Crypto Trading System**](https://github.com/kotelyanets/GrokSniper) | Autonomous trading platform powered by a Multi-Agent AI Council with Web3 integration and a live operational dashboard. Focused on intelligent decision orchestration in real-time markets. | `FastAPI` · `Next.js` · `Docker` · `CrewAI` · `CCXT` |
+| [**Zenith IoT — Real-Time Monitoring Dashboard**](https://github.com/kotelyanets/zenith-iot) | Real-time IoT monitoring dashboard delivering AI-powered operational insights through a modern Bento Grid interface. Built for fast situational awareness and actionable analytics. | `Next.js`, `React`, `TypeScript`, `Tailwind` |
+| [**Dynasty — Full-Stack Music Streaming PWA**](https://github.com/kotelyanets/Dynasty) | Self-hosted music streaming platform with byte-range audio delivery and a fully responsive player experience. Designed as a production-grade PWA for smooth playback across devices. | `React 19`, `Vite`, `Node.js`, `Fastify`, `Prisma` |
+| [**GrokSniper AI — Autonomous Crypto Trading System**](https://github.com/kotelyanets/GrokSniper) | Autonomous trading platform powered by a Multi-Agent AI Council with Web3 integration and a live operational dashboard. Focused on intelligent decision orchestration in real-time markets. | `FastAPI`, `Next.js`, `Docker`, `CrewAI`, `CCXT` |
 
 <br>
 
