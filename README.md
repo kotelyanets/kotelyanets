@@ -1,13 +1,26 @@
-# Andre Kotelyanets
-### Full-Stack & AI Engineer based in Portugal 🇵🇹
+<h1 align="center">Andre Kotelyanets</h1>
+<h3 align="center">Senior Full-Stack & AI Engineer · Portugal 🇵🇹</h3>
 
-Building scalable web applications, AI-driven SaaS products, and next-generation Web3 solutions with a strong focus on performance, developer experience, and elegant product design.
+<p align="center">
+  Designing and shipping high-performance digital products across <strong>AI</strong>, <strong>SaaS</strong>, and <strong>Web3</strong> — with a strong focus on architecture quality, product clarity, and execution speed.
+</p>
 
-<br>
+<p align="center">
+  <a href="https://linkedin.com/in/andre-kotelyanets"><img src="https://img.shields.io/badge/LinkedIn-andre--kotelyanets-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:andrekotelyanets@proton.me"><img src="https://img.shields.io/badge/Email-andrekotelyanets%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## ⚙️ Core Expertise
+
+- **Product Engineering:** Build robust full-stack systems with clear domain boundaries and production-first architecture.
+- **AI Systems:** Integrate LLM-powered features and autonomous agent workflows into practical business applications.
+- **Platform Quality:** Prioritize performance, reliability, developer experience, and clean delivery pipelines.
+
+---
+
+## 🚀 Technology Stack
 
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -23,16 +36,12 @@ Building scalable web applications, AI-driven SaaS products, and next-generation
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### AI / Web3
+### AI / Web3 / DevOps
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-
-### Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-<br>
 
 ---
 
@@ -43,21 +52,11 @@ Building scalable web applications, AI-driven SaaS products, and next-generation
 | [**Zenith IoT — Real-Time Monitoring Dashboard**](https://github.com/kotelyanets/zenith-iot) | Real-time IoT monitoring dashboard delivering AI-powered operational insights through a modern Bento Grid interface. Built for fast situational awareness and actionable analytics. | `Next.js`, `React`, `TypeScript`, `Tailwind` |
 | [**Dynasty — Full-Stack Music Streaming PWA**](https://github.com/kotelyanets/Dynasty) | Self-hosted music streaming platform with byte-range audio delivery and a fully responsive player experience. Designed as a production-grade PWA for smooth playback across devices. | `React 19`, `Vite`, `Node.js`, `Fastify`, `Prisma` |
 | [**GrokSniper AI — Autonomous Crypto Trading System**](https://github.com/kotelyanets/GrokSniper) | Autonomous trading platform powered by a Multi-Agent AI Council with Web3 integration and a live operational dashboard. Focused on intelligent decision orchestration in real-time markets. | `FastAPI`, `Next.js`, `Docker`, `CrewAI`, `CCXT` |
-
-<br>
+| [**NovaPharma — Intelligent Pharma Operations Platform**](https://github.com/kotelyanets/NovaPharma) | End-to-end platform for pharmaceutical workflows, combining operational visibility with AI-assisted decision support to improve speed, compliance, and execution quality. | `Next.js`, `TypeScript`, `Python`, `FastAPI`, `PostgreSQL` |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 ![Andre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kotelyanets&show_icons=true&theme=transparent&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kotelyanets&layout=compact&theme=transparent&hide_border=true)
-
-<br>
-
----
-
-## 🤝 Contact / Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-andre--kotelyanets-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andre-kotelyanets)
-[![Email](https://img.shields.io/badge/Email-andrekotelyanets%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:andrekotelyanets@proton.me)
