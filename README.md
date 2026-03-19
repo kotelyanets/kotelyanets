@@ -52,7 +52,7 @@
 | [**Zenith IoT — Real-Time Monitoring Dashboard**](https://github.com/kotelyanets/zenith-iot) | Real-time IoT monitoring dashboard delivering AI-powered operational insights through a modern Bento Grid interface. Built for fast situational awareness and actionable analytics. | `Next.js`, `React`, `TypeScript`, `Tailwind` |
 | [**Dynasty — Full-Stack Music Streaming PWA**](https://github.com/kotelyanets/Dynasty) | Self-hosted music streaming platform with byte-range audio delivery and a fully responsive player experience. Designed as a production-grade PWA for smooth playback across devices. | `React 19`, `Vite`, `Node.js`, `Fastify`, `Prisma` |
 | [**GrokSniper AI — Autonomous Crypto Trading System**](https://github.com/kotelyanets/GrokSniper) | Autonomous trading platform powered by a Multi-Agent AI Council with Web3 integration and a live operational dashboard. Focused on intelligent decision orchestration in real-time markets. | `FastAPI`, `Next.js`, `Docker`, `CrewAI`, `CCXT` |
-| [**NovaPharma — Intelligent Pharma Operations Platform**](https://github.com/kotelyanets/NovaPharma) | End-to-end platform for pharmaceutical workflows, combining operational visibility with AI-assisted decision support to improve speed, compliance, and execution quality. | `Next.js`, `TypeScript`, `Python`, `FastAPI`, `PostgreSQL` |
+| [**NovaPharm — Modern Pharmaceutical Data Platform**](https://github.com/kotelyanets/NovaPharm) | Platform for collecting, normalizing, storing, and searching medicine data with a modern web interface and automated data collection workflows. | `Next.js`, `TypeScript`, `PostgreSQL`, `Prisma`, `Meilisearch`, `Playwright` |
 
 ---
 
