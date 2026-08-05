@@ -12,18 +12,19 @@
 </p>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/kotelyanets/bg_tokyonight.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kotelyanets&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
 
 ### 🚀 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kotelyanets&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=kotelyanets&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kotelyanets&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=A3B3BC&include_all_commits=true" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=kotelyanets&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideNums=A3B3BC&currStreakNum=A3B3BC&sideLabels=A3B3BC&dates=A3B3BC" height="165" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotelyanets&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotelyanets&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=A3B3BC" height="165" alt="Top Languages" />
 </div>
 
 ---
