@@ -1,8 +1,8 @@
 <h1 align="center">Andre Kotelyanets</h1>
-<h3 align="center">Senior Full-Stack & AI Engineer · Portugal 🇵🇹</h3>
+<h3 align="center">Full-Stack Software Engineer · Schiedam, Netherlands 🇳🇱</h3>
 
 <p align="center">
-  Designing and shipping high-performance digital products across <strong>AI</strong>, <strong>SaaS</strong>, and <strong>Web3</strong> — with a strong focus on architecture quality, product clarity, and execution speed.
+  IT Engineering student and developer building high-performance digital products across <strong>Web</strong>, <strong>AI</strong>, and <strong>IoT</strong> — with a strong focus on architecture quality, product clarity, and execution speed.
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 ## ⚙️ Core Expertise
 
-- **Product Engineering:** Build robust full-stack systems with clear domain boundaries and production-first architecture.
-- **AI Systems:** Integrate LLM-powered features and autonomous agent workflows into practical business applications.
-- **Platform Quality:** Prioritize performance, reliability, developer experience, and clean delivery pipelines.
+- **Product Engineering:** Building robust full-stack systems with clear domain boundaries and production-first architecture.
+- **AI & Data Systems:** Integrating LLM-powered features and automated workflows into practical business applications.
+- **Platform Quality:** Prioritizing performance, reliability, developer experience, and clean delivery pipelines.
 
 ---
 
@@ -30,15 +30,14 @@
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### AI / Web3 / DevOps
+### AI / Cloud / DevOps
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -50,9 +49,9 @@
 | Project | Description | Main Tech Stack |
 |---|---|---|
 | [**Zenith IoT — Real-Time Monitoring Dashboard**](https://github.com/kotelyanets/zenith-iot) | Real-time IoT monitoring dashboard delivering AI-powered operational insights through a modern Bento Grid interface. Built for fast situational awareness and actionable analytics. | `Next.js`, `React`, `TypeScript`, `Tailwind` |
-| [**Dynasty — Full-Stack Music Streaming PWA**](https://github.com/kotelyanets/Dynasty) | Self-hosted music streaming platform with byte-range audio delivery and a fully responsive player experience. Designed as a production-grade PWA for smooth playback across devices. | `React 19`, `Vite`, `Node.js`, `Fastify`, `Prisma` |
-| [**GrokSniper AI — Autonomous Crypto Trading System**](https://github.com/kotelyanets/GrokSniper) | Autonomous trading platform powered by a Multi-Agent AI Council with Web3 integration and a live operational dashboard. Focused on intelligent decision orchestration in real-time markets. | `FastAPI`, `Next.js`, `Docker`, `CrewAI`, `CCXT` |
-| [**NovaPharm — Modern Pharmaceutical Data Platform**](https://github.com/kotelyanets/NovaPharm) | Platform for collecting, normalizing, storing, and searching medicine data with a modern web interface and automated data collection workflows. | `Next.js`, `TypeScript`, `PostgreSQL`, `Prisma`, `Meilisearch`, `Playwright` |
+| [**Dynasty — Full-Stack Music Streaming PWA**](https://github.com/kotelyanets/Dynasty) | Self-hosted music streaming platform with byte-range audio delivery and a fully responsive player experience. Designed as a production-grade PWA for smooth playback across devices. | `React 19`, `Vite`, `Node.js`, `Prisma` |
+| [**GrokSniper AI — Autonomous Trading System**](https://github.com/kotelyanets/GrokSniper) | Autonomous platform powered by a Multi-Agent AI Council with a live operational dashboard. Focused on intelligent decision orchestration in real-time environments. | `FastAPI`, `Next.js`, `Docker`, `CrewAI` |
+| [**NovaPharm — Modern Pharmaceutical Data Platform**](https://github.com/kotelyanets/NovaPharm) | Platform for collecting, normalizing, storing, and searching medicine data with a modern web interface and automated data collection workflows. | `Next.js`, `TypeScript`, `PostgreSQL`, `Prisma`, `Playwright` |
 
 ---
 
