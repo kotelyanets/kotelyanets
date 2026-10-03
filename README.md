@@ -68,5 +68,5 @@
 
 <div align="center">
   <h3>🌱 Currently...</h3>
-  <p>I’m actively looking for <b>Junior/Trainee Full-Stack Software Engineering</b> opportunities in the Netherlands 🇳🇱.</p>
+  <p>I’m actively looking for <b>Junior/Trainee Full-Stack Software Engineering</p>
 </div>
